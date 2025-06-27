@@ -30,16 +30,7 @@ I'm still a bit confused about the difference between `git fetch` and `git pull`
 **3. Any blockers or challenges?**
 - Some parts of the lecture are a bit tricky, so I might need to touch base with the professor to clear things up.
 
-## [Date: 06-25-2025]
-
-**1. What did I accomplish yesterday?**
-- Finished reading all the required materials for class and completed the practice exercises.
-
-**2. What will I do today?**
-- Review yesterday’s lecture notes thoroughly and start working on the new assignment.
-
-**3. Any blockers or challenges?**
-- Certain concepts from the lecture are a little confusing, so I plan to reach out to the professor for clarification.
+Successfully attended all scheduled classes and stayed focused throughout
 
 ## README [Part 1: View-Only Integration with Google Contacts]
 Steps Taken
@@ -67,3 +58,14 @@ Steps Taken
 -Verified that only view access is granted, no write or edit permissions available.
 
 -Tested error handling for authentication failures or permission denials.
+
+## [Date: 06-27-2025]
+
+**1. What did I accomplish yesterday?**
+- Built a strong foundation by staying consistent with note-taking and organizing tasks, making it easier to study efficiently moving forward.
+
+**2. What will I do today?**
+- Make tangible progress on the assignment and enhance understanding through collaborative learning.
+
+**3. Any blockers or challenges?**
+- Difficulty maintaining focus due to lack of rest
